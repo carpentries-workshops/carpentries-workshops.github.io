@@ -1,1 +1,1 @@
-Placeholder repo for hosting workshop websites under workshop-websites.carpentries.org
+Placeholder repo for hosting workshop websites under carpentries-workshops.carpentries.org
